@@ -1,0 +1,24 @@
+.footer {
+  background-color: #e4f0f1 !important;
+  padding: 40px 0;
+}
+.content {
+  direction: rtl;
+}
+.content3 {
+  direction: rtl;
+  position: relative;
+  top: -40px;
+}
+.text {
+  font-size: 18px !important;
+  width: 300px !important;
+  line-height: 26px !important;
+}
+.plan4 {
+  width: 30px;
+  height: 30px;
+  position: relative;
+  left: -80px;
+  top: 30px;
+}

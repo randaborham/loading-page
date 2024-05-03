@@ -1,0 +1,79 @@
+.Blog {
+}
+.Blog .card {
+  width: 25% !important;
+}
+.card-text {
+  direction: rtl;
+  display: flex !important;
+  justify-content: space-around !important;
+  font-weight: 600;
+}
+.card-textt {
+  direction: rtl;
+  vertical-align: middle;
+}
+.left {
+  position: relative;
+  top: -300px;
+  left: 20px;
+}
+.right {
+  position: relative;
+  top: -300px;
+  left: 1150px;
+}
+.start1 {
+  position: relative;
+  left: -400px;
+  transform: rotate(-30deg);
+}
+.end1 {
+  position: relative;
+  right: -400px;
+  transform: rotate(-30deg);
+}
+.start2 {
+  position: relative;
+  right: -350px;
+  transform: rotate(-30deg);
+}
+.end2 {
+  position: relative;
+  left: -500px;
+  transform: rotate(-30deg);
+}
+@media (max-width: 767.98px) {
+  .left {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    opacity: 0;
+  }
+  .right {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    opacity: 0;
+  }
+  .start1 {
+    position: relative;
+    left: -40px;
+    transform: rotate(-30deg);
+  }
+  .end1 {
+    position: relative;
+    right: -40px;
+    transform: rotate(-30deg);
+  }
+  .start2 {
+    position: relative;
+    right: -30px;
+    transform: rotate(-30deg);
+  }
+  .end2 {
+    position: relative;
+    left: -50px;
+    transform: rotate(-30deg);
+  }
+}

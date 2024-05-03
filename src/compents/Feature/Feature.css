@@ -1,0 +1,125 @@
+.box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* padding: 50px; */
+}
+.box p {
+  color: #1e1e1e99;
+  font-size: 16px;
+  line-height: 37px;
+  width: 295px;
+}
+.p4 {
+  line-height: 37px;
+}
+.iage img {
+  width: 84.06px;
+  height: 84.06px;
+  text-align: center !important;
+  transform: rotate(40deg);
+}
+.iage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  height: 169px;
+  background-color: blueviolet;
+  border-radius: 50%;
+  transform: rotate(-40deg);
+  text-align: center !important;
+}
+.par {
+  text-align: center;
+  direction: rtl;
+}
+.images img {
+  width: 270px;
+  height: 200px;
+  /* top: 1.1px;
+  gap: 0px; */
+  border-radius: 12px 12px 12px 12px;
+  opacity: 90%;
+}
+/* .box3 {
+  position: relative;
+} */
+
+.iimage img {
+  width: 270px;
+  height: 200px;
+  /* top: 1.1px;
+  gap: 0px; */
+  border-radius: 12px 12px 12px 12px;
+
+  position: relative;
+  top: -330px;
+  left: 130px;
+  border: 5px solid white;
+  background-color: rgb(43, 125, 197) !important;
+}
+.title1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 50px !important;
+}
+.title3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.d1 {
+  width: 8px;
+  height: 8px;
+  background-color: rgb(85, 85, 214);
+  border-radius: 50%;
+  position: relative;
+  top: 18px;
+  z-index: 999999999999999999999999;
+}
+
+.d2 {
+  width: 8px;
+  height: 8px;
+  background-color: rgb(210, 214, 85);
+  border-radius: 50%;
+  position: relative;
+  top: 160px;
+  z-index: 999999999999999999999999;
+}
+
+/*---start media query----*/
+
+@media (max-width: 1399.98px) {
+}
+
+@media (max-width: 1199.98px) {
+}
+
+@media (max-width: 991.98px) {
+}
+@media (max-width: 850.98px) {
+}
+
+@media (max-width: 767.98px) {
+  .iimage img {
+    border-radius: 12px 12px 12px 12px;
+    width: 100% !important;
+    top: 0px;
+    left: 0px;
+    border: 5px solid white;
+    background-color: rgb(43, 125, 197) !important;
+  }
+}
+
+@media (max-width: 626.98px) {
+}
+@media (max-width: 575.98px) {
+}
+@media (max-width: 390px) {
+}
+
+/*----end media query----*/
