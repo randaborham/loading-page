@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/loading-page/static/css/main.d2ff0b21.css",
+    "main.js": "/loading-page/static/js/main.7e596eca.js",
+    "static/media/png": "/loading-page/static/media/d9a3d969caf7bf7b11ba6abaaa987ec5.19c24e1498bbbf42fd08.png",
+    "static/media/g.png": "/loading-page/static/media/d8824fc27f52483640a68170730ffd8dg.f0eb7e301ad88ab1d3d2.png",
+    "static/media/fa-solid-900.ttf": "/loading-page/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
+    "static/media/fa-brands-400.ttf": "/loading-page/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
+    "static/media/2.png": "/loading-page/static/media/2.cd756cfe317da5c7eaa8.png",
+    "static/media/fa-solid-900.woff2": "/loading-page/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/3.png": "/loading-page/static/media/3.9b74998ed418b8645e71.png",
+    "static/media/1.png": "/loading-page/static/media/1.6eeb7e384cbb50fe5776.png",
+    "static/media/fa-brands-400.woff2": "/loading-page/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
+    "static/media/fa-regular-400.ttf": "/loading-page/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/fa-regular-400.woff2": "/loading-page/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/q.png": "/loading-page/static/media/q.9a0ab8aa506175b70f09.png",
+    "static/media/fa-v4compatibility.ttf": "/loading-page/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/fa-v4compatibility.woff2": "/loading-page/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
+    "static/media/slick.svg": "/loading-page/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/loading-page/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/loading-page/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/loading-page/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/loading-page/index.html",
+    "main.d2ff0b21.css.map": "/loading-page/static/css/main.d2ff0b21.css.map",
+    "main.7e596eca.js.map": "/loading-page/static/js/main.7e596eca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2ff0b21.css",
+    "static/js/main.7e596eca.js"
+  ]
+}
